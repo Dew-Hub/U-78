@@ -3,6 +3,4 @@ Oyun ve Uygulama Akademisi Bootcamp
 
 Unity 2022.3.0f1
 
-![progressbar_cat](https://github.com/Dew-Hub/U-78/assets/54241620/71d42530-0d4c-47a3-9184-09855d660266)
-![output-onlinegiftools](https://github.com/Dew-Hub/U-78/assets/54241620/0a5e0ef7-231e-4166-89a4-fef681826f59)
-![output-onlinegiftools (3)](https://github.com/Dew-Hub/U-78/assets/54241620/af27dd3e-6711-4364-a928-ab1bfb3c87d5)
+![steamuserimages-a akamaihd](https://github.com/Dew-Hub/U-78/assets/54241620/a661f1ca-a379-4d42-8c79-925ee324c20d)
