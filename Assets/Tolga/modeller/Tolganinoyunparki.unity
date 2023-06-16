@@ -696,6 +696,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6449265365447941941, guid: 8bdb383dd64abd343bafbf357541a753, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 92a4278e236c2a8479a1f1efa267375f, type: 2}
     - target: {fileID: -4030051023480805527, guid: 8bdb383dd64abd343bafbf357541a753, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -728,6 +732,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: yakittankivejenerator
       objectReference: {fileID: 0}
+    - target: {fileID: 8312390445161572674, guid: 8bdb383dd64abd343bafbf357541a753, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a44cbc3c46898eb47aee3e299e8289cd, type: 2}
+    - target: {fileID: 8312390445161572674, guid: 8bdb383dd64abd343bafbf357541a753, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6334d22a00447da4f8a661801436f72b, type: 2}
     - target: {fileID: 8312390445161572674, guid: 8bdb383dd64abd343bafbf357541a753, type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
