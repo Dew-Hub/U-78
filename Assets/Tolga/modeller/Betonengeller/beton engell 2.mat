@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: h pist boya
+  m_Name: beton engell 2
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -27,7 +27,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: ac3655f1291e1914e9143a2d6f279f72, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6dd08468b0432e343937d1c55b957e6b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 64db8a7806d5c5444b518f3f22bfc99c, type: 3}
+        m_Texture: {fileID: 2800000, guid: ed54aed1c10863c49a4f9c17fd796f11, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -55,15 +55,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: cb993acb83226e24ca728f1e261f4c83, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06dada891497d744f990da2e28d889a8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: f508da5240097694ca30d5918d341e45, type: 3}
+        m_Texture: {fileID: 2800000, guid: b44bc95616bfb324c9dfe0a761830e51, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
-        m_Texture: {fileID: 2800000, guid: a21c85cd1045c8343aba6b7c47949eb3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 98b60447914f9154a8ae1607255f8954, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
