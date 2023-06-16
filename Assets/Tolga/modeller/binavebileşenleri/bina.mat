@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Kumzemin
+  m_Name: bina
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -27,7 +27,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 4ea994cbdcef54e449227b8ff5d743aa, type: 3}
+        m_Texture: {fileID: 2800000, guid: 25262a7422c92284c86b787bcc67f405, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b392b2f43dc36da4cab493ab9200b416, type: 3}
+        m_Texture: {fileID: 2800000, guid: b43ab2d944b75eb48ba9cfa1b55fc2bc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -55,15 +55,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 2c0d92025f82efd44ae932896e509b4a, type: 3}
+        m_Texture: {fileID: 2800000, guid: d4c9812705c48c345861880c5691a2cc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 66adb8758d2a93d4996215ed00c86799, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5820f3009cd667342b04829146b24be1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
-        m_Texture: {fileID: 2800000, guid: 49a19a22ab786b542a13e0dcf3fc51b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: dfee5dd84ffbfc841a0d0a8e8490ff7e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []

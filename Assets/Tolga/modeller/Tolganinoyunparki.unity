@@ -301,6 +301,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7159236951463829038, guid: 171d8a82001dd4340996a5e72444850f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 573997809042f6440b3743ae214a7ee9, type: 2}
+    - target: {fileID: -6473746806401671627, guid: 171d8a82001dd4340996a5e72444850f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 573997809042f6440b3743ae214a7ee9, type: 2}
     - target: {fileID: 919132149155446097, guid: 171d8a82001dd4340996a5e72444850f, type: 3}
       propertyPath: m_Name
       value: elekrikkablotutucu
@@ -362,6 +370,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4cec57a1371abbb42abca86ff132717d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9919bba736c532642bd3dd409fbbbac8, type: 2}
     - target: {fileID: 919132149155446097, guid: 4cec57a1371abbb42abca86ff132717d, type: 3}
       propertyPath: m_Name
       value: Kumzemin
@@ -594,10 +606,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2027904178276973594, guid: d95efcea078dd374986d5e154ddff84f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c79c5559ea9884f4ca4c481facad610e, type: 2}
     - target: {fileID: 919132149155446097, guid: d95efcea078dd374986d5e154ddff84f, type: 3}
       propertyPath: m_Name
       value: "Binavebile\u015Fenleri"
       objectReference: {fileID: 0}
+    - target: {fileID: 4407187375235809858, guid: d95efcea078dd374986d5e154ddff84f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7353d2ea7f55ae54c9850c0f951ace0b, type: 2}
+    - target: {fileID: 5694059874591286030, guid: d95efcea078dd374986d5e154ddff84f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf591a03f56839843bb36f609ae23060, type: 2}
+    - target: {fileID: 8424073627695423409, guid: d95efcea078dd374986d5e154ddff84f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 39ef4738303fc5b4cade26fdc8dc0df2, type: 2}
+    - target: {fileID: 8424073627695423409, guid: d95efcea078dd374986d5e154ddff84f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a3e55e71cdffd9e43a7bb4a2ecf1a629, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

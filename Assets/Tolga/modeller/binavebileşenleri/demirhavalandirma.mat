@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Kumzemin
+  m_Name: demirhavalandirma
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -27,7 +27,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 4ea994cbdcef54e449227b8ff5d743aa, type: 3}
+        m_Texture: {fileID: 2800000, guid: afb420640b868e44e93c819a61beffd5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b392b2f43dc36da4cab493ab9200b416, type: 3}
+        m_Texture: {fileID: 2800000, guid: 706f1e4b82a53344e8b48f7b4ab40e29, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -55,15 +55,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 2c0d92025f82efd44ae932896e509b4a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 38bd82270be9a304f8c31da8a5ba7c96, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 66adb8758d2a93d4996215ed00c86799, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3c7ffffd1ba80e04f924df4422bd13c5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
-        m_Texture: {fileID: 2800000, guid: 49a19a22ab786b542a13e0dcf3fc51b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: a396abc5856dd8840bb616166c4d2ea0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -72,7 +72,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GlossMapScale: 0
+    - _GlossMapScale: 0.251
     - _Glossiness: 0
     - _GlossyReflections: 1
     - _Metallic: 0
