@@ -69,3 +69,4 @@ Takımlar belirlendikten hemen sonra (3 Haziran) discord kanalı açılmış uyg
 Trello'daki kanban panolarında bulunan kullanıcı hikayelerine göz atabilirsiniz.
 
 
+---
