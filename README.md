@@ -44,7 +44,7 @@ Yapay zeka tarafından ele geçirilmiş bir distopyada Mars’ta bulunan koloni 
 - **Daily Scrum**: Daily Scrum toplantıları WhatsApp üzerinden yapılmıştır. Daily Scrum toplantıları, WhatsApp konuşmalarımızın ekran fotoğraflarını içeren bir Word dosyası olarak paylaşılmaktadır: [Daily Scrum.docx](https://github.com/Dew-Hub/U-78/files/11782675/Daily.Scrum.docx)
 
 - **Sprint board update**: Sprint board screenshotları:
-[Unity Team 78 Sprint 1 Backlog Board](https://trello.com/invite/b/S0EaXG7N/ATTI5f73de6d75b6d31c3a577e9bb0ac9b286BDB7D46/1sprint)
+[Unity Team 78 Sprint 1 Backlog Board](https://trello.com/b/S0EaXG7N/1sprint)
 
 ![3done](https://github.com/Dew-Hub/U-78/assets/123193328/b13b6e01-c849-4ad1-81c5-23fd98e29f1b)
 
