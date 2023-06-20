@@ -171,6 +171,7 @@ MonoBehaviour:
   - {fileID: 1820516404}
   - {fileID: 1182646669}
   - {fileID: 1589956416}
+  yCamera: {fileID: 2018673400}
 --- !u!1 &62998112
 GameObject:
   m_ObjectHideFlags: 0
@@ -23087,7 +23088,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-  m_CustomBlends: {fileID: 0}
+  m_CustomBlends: {fileID: 11400000, guid: fab1c1687e890dc498d20d7d0a7e9997, type: 2}
   m_CameraCutEvent:
     m_PersistentCalls:
       m_Calls: []
