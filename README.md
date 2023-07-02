@@ -70,3 +70,46 @@ Trello'daki kanban panolarında bulunan kullanıcı hikayelerine göz atabilirsi
 
 
 ---
+
+## Product Backlog URL
+
+[Product Backlog.docx](https://github.com/Dew-Hub/U-78/files/11931696/Product.Backlog.docx)
+
+---
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. İkinci sprintte ilk sprintten daha fazla puan tamamlaması gerektiğine karar verilmiştir.
+
+- **Daily Scrum**: Daily Scrum toplantıları WhatsApp üzerinden yapılmıştır. Daily Scrum toplantıları, WhatsApp konuşmalarımızın ekran fotoğraflarını içeren bir Word dosyası olarak paylaşılmaktadır: [Daily Scrum 2.docx](https://github.com/Dew-Hub/U-78/files/11931705/Daily.Scrum.2.docx)
+
+- **Sprint board update**: Sprint board screenshotları:
+[Unity Team 78 Sprint 2 Backlog Board](https://trello.com/b/aTCsWqNO/2sprint)
+
+![done](https://github.com/Dew-Hub/U-78/assets/123193328/8e1fc3dc-5c1d-49b5-98b0-87578f8b9a6e)
+![roadmap](https://github.com/Dew-Hub/U-78/assets/123193328/278752bf-c1a1-4312-883d-01091f2c21e0)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![1](https://github.com/Dew-Hub/U-78/assets/123193328/fa0dcf32-8a34-461d-ae8a-a441893dcead)
+![2](https://github.com/Dew-Hub/U-78/assets/123193328/30172614-8c80-4217-b037-4c9fdedd18a7)
+![3](https://github.com/Dew-Hub/U-78/assets/123193328/06cf37c9-4752-4fea-9f34-af574eb56c10)
+![maps_gif](https://github.com/Dew-Hub/U-78/assets/123193328/2150ad68-e022-4cf2-8895-224c268b99b8)
+
+- **Sprint Review**: 
+Alınan kararlar: Oyunda çözülmesi gereken puzzlelara karar verilmiş, oyuna işlenmeye başlamıştır. Ana karakterin modellemesi yapılmıştır.
+
+- **Sprint Retrospective:**
+Sprint Retrospective katılımcıları: Sena Akdoğan, Burak Öntürk, Şamil Düz, Tolga Karaduman, Volkan Doğan
+  - Sprint 2 içerisinde dini bayram ve özel durumlardan dolayı aktif olamayanlar son sprint içerisinde daha aktif olacaklardır.
+  - Product Backlog’da oluşturulan puan sistemine göre 3. Sprint’te tamamlanması gereken fazla puan kalmıştır.
+  - İlk sprinte göre takım daha az koordine olabilmiştir, son sprintte motivasyonumuzu geri kazanarak daha hızlı ilerleyip daha koordine çalışacağımıza inanıyoruz.
+
+- **Sprint Notları:**
+Takım 2.Sprintte ulaşmak istediği puana bayram, tatil, özel durumlar vs. sebebiyle ulaşamamıştır. Bu durum takımda motivasyon kaybına sebep olmuştur ancak son sprintte bu durumu tersine çevirerek güzel bir sonuç elde edeceğimizi düşünüyoruz.
+
+
+---
