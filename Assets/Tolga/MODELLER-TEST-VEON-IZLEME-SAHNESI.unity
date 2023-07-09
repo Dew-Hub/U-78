@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028396, g: 0.22571443, b: 0.30692348, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -248,10 +248,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3361629883295301225, guid: c38e0310793fb0b49a0a056bf18872bd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c239fdf6c15dcf4cbbc40426006560a, type: 2}
     - target: {fileID: 919132149155446097, guid: c38e0310793fb0b49a0a056bf18872bd, type: 3}
       propertyPath: m_Name
       value: ZEMIN-KUTU-TETIKLEYICI
       objectReference: {fileID: 0}
+    - target: {fileID: 5095268260769352227, guid: c38e0310793fb0b49a0a056bf18872bd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 037c83af3a91a594489a277b55e9a015, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -404,14 +412,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 285436598}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalRotation: {x: 0.09469283, y: -0.8832649, z: 0.41187224, w: 0.2030705}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 50, y: -154.104, z: 0}
 --- !u!1001 &505077196
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1110,6 +1118,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8271834556889637560, guid: 61263887674506542bdee3d394f5f3f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc31d95afa97f5b45ae25e1514b52e43, type: 2}
+    - target: {fileID: -2027904178276973594, guid: 61263887674506542bdee3d394f5f3f4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b054a6df02cdb2842950de0275c2b6b0, type: 2}
     - target: {fileID: 919132149155446097, guid: 61263887674506542bdee3d394f5f3f4, type: 3}
       propertyPath: m_Name
       value: UST-ROBOT-TASIYICI-RAY
@@ -1175,6 +1191,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: UST-ROBOT-TASIYICI-RAY-90DERECE
       objectReference: {fileID: 0}
+    - target: {fileID: 2630596814797373727, guid: b4427b416f783a343abd6329ae0d415a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: caba9f3c7c5133e4796ec51f7ae0c03b, type: 2}
+    - target: {fileID: 4842034304032773444, guid: b4427b416f783a343abd6329ae0d415a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 52359d8eafb106d42b21de4ee9c00af5, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
