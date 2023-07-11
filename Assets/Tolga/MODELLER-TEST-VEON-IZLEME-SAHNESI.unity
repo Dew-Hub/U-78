@@ -273,6 +273,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8734478045231559670, guid: 055174a8331ea7e4387ac876a95f26e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af2785320788fee4d9c5e2f7c25e23d2, type: 2}
     - target: {fileID: -8679921383154817045, guid: 055174a8331ea7e4387ac876a95f26e0, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -317,10 +321,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8249360568288335681, guid: 055174a8331ea7e4387ac876a95f26e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a5118f75e219eb46beaeef137981f86, type: 2}
+    - target: {fileID: -7743024157594126857, guid: 055174a8331ea7e4387ac876a95f26e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af2785320788fee4d9c5e2f7c25e23d2, type: 2}
     - target: {fileID: 919132149155446097, guid: 055174a8331ea7e4387ac876a95f26e0, type: 3}
       propertyPath: m_Name
       value: UST- ROBOT- GIRECEGI-KUTU
       objectReference: {fileID: 0}
+    - target: {fileID: 3599888468071615769, guid: 055174a8331ea7e4387ac876a95f26e0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: af2785320788fee4d9c5e2f7c25e23d2, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
