@@ -6,7 +6,7 @@ using UnityEngine;
 public class animeventforAsansor : MonoBehaviour
 {
     public ParticleSystem[] particleSystemsToControl;
-    public CinemachineVirtualCamera yCamera;
+
     private void Start()
     {
         foreach (ParticleSystem particleSystem in particleSystemsToControl)
@@ -20,7 +20,7 @@ public class animeventforAsansor : MonoBehaviour
         foreach (ParticleSystem particleSystem in particleSystemsToControl)
         {
             particleSystem.Play();
-            yCamera.Priority = 11;
+
         }
     }
 
@@ -29,7 +29,6 @@ public class animeventforAsansor : MonoBehaviour
         foreach (ParticleSystem particleSystem in particleSystemsToControl)
         {
             particleSystem.Stop();
-            yCamera.Priority = 0;
         }
     }
 }
