@@ -287,10 +287,10 @@ public class physicsPickup2 : MonoBehaviour
 
     void RotateObject()
     {
-        float mouseX = Input.GetAxis("Mouse X");
-        float mouseY = Input.GetAxis("Mouse Y");
 
-        Vector3 rotation = new Vector3(-mouseY, mouseX, 0f);
+        float mouseX = Input.GetAxis("Mouse X");
+
+        Vector3 rotation = new Vector3(0f, 0f, mouseX);
         heldOBJ.transform.Rotate(rotation);
     }
 
