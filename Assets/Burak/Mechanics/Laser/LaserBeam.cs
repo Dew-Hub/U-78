@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -71,6 +71,13 @@ public class LaserBeam
             Vector3 dir = Vector3.Reflect(direction, hitInfo.normal);
 
             CastRay(pos, dir, laser);
+        }
+
+        else if (hitInfo.collider.gameObject.tag == "Disil")
+        {
+            Debug.Log("Çarptı");
+            laserIndices.Add(hitInfo.point);
+            UpdateLaser();
         }
         else
         {
