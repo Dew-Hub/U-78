@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -26,7 +26,10 @@ public class NewLaser : MonoBehaviour
 
     private void Update()
     {
+
         ReflectLaser();
+
+
     }
 
     void ReflectLaser()
@@ -37,9 +40,11 @@ public class NewLaser : MonoBehaviour
         _lineRenderer.SetPosition(0, transform.position);
 
         float remainLength = defaultLength;
+        bool isMirrored = false;
 
         for (int i = 0; i < numOfReflections; i++)
         {
+
             if (Physics.Raycast(ray.origin, ray.direction, out hit, remainLength, layerMask))
             {
 
@@ -50,10 +55,17 @@ public class NewLaser : MonoBehaviour
                 remainLength -= Vector3.Distance(ray.origin, hit.point);
 
                 ray = new Ray(hit.point, Vector3.Reflect(ray.direction, hit.normal));
-                if (hit.collider.CompareTag("box"))
+
+
+                if (hit.collider.CompareTag("Mirror")) // Mirror tag'ine sahip bir nesneye çarparsa
                 {
-                    Debug.Log("hadi lan");
+                    isMirrored = true;
                 }
+                else if (isMirrored) // Mirror tag'ine sahip nesneden sekip, başka bir nesneye çarparsa
+                {
+                    break; // Lazerin durmasını sağlamak için döngüden çıkılır
+                }
+
             }
             else
             {
