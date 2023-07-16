@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım Unity 78
+NAVI-78
 
 # Ürün İle İlgili Bilgiler
 
@@ -9,11 +9,11 @@ Takım Unity 78
 - Burak Öntürk: Product Owner / Developer 
 - Şamil Düz: Developer
 - Tolga Karaduman: 3D Artist
-- Volkan Doğan: Graphic Designer
+- Volkan Doğan: Aktif Olmayan Üye
 
 ## Ürün İsmi
 
---The Robotic Odyssey--
+RoboVenture: NAVI-78's Quest
 
 ## Product Backlog URL
 
@@ -21,17 +21,18 @@ Takım Unity 78
 
 ## Ürün Açıklaması
 
-Yapay zeka tarafından ele geçirilmiş bir distopyada Mars’ta bulunan koloni Dünya’ya geri dönmek için yapay zekanın bulunduğu merkez üssüne bir keşif robotu gönderir. Ana karakterimiz olan bu robot merkez üssüne gelerek Spark adlı ışık yayan, tavanda raylı sistemde bulunan bir robotla karşılaşır. En üst katta başlayan bu macera yapay zekanın bulunduğu en alt kata kadar inene kadar ve yapay zekayı yok edene kadar devam eder. Ana karakterimiz son görevine kadar belirli puzzleları çözmeli bazı görevlerde Spark’ın ışığından yararlanmalıdır.
+Yapay zekâ tarafından ele geçirilmiş bir distopyada Mars’ta bulunan koloni Dünya’ya geri dönmek için yapay zekanın bulunduğu merkez üssüne bir keşif robotu gönderir. Ana karakterimiz olan NAVI-78 merkez üssüne gelir. En üst katta başlayan bu macera yapay zekanın bulunduğu en alt kata inene kadar devam eder. Ana karakterimiz son görevine kadar belirli puzzleları çözmeli ve son bölümde yapay zekâ ile karşı karşıya gelmelidir.
 
 ## Ürün Özellikleri
 
-- Ekrana gelen pop-uplar ile ana karakter ve yardımcı karakter arasında diyalog oluşturularak oyunun hikayeleştirilmesi.
-- Oyun içerisinde ışık etkilerinden yararlanılarak oyuncuda etki oluşturulması.
-- Oyuncunun bulunduğu mekana/bölüme/puzzlea göre kamera açılarının değişmesi.
+- Oyun, her bölümde farklı puzzleların çözüldüğü levellerden oluşmaktadır.
+- Oyunun son leveli, sektörde Boss Fight olarak da adlandırılan, ana karakter ile düşman karakterin karşı karşıya gelmesinden oluşmaktadır.
+- Oyun, Steam üzerinde yayınlanacak olan bir PC oyunu olarak tasarlanmıştır.
 
 ## Hedef Kitle
 
-- PG-13
+- 9 yaş ve üstü için uygun bir oyundur.
+- Puzzle severlere yönelik bir oyundur.
 
 # Sprint 1
 
@@ -110,6 +111,52 @@ Sprint Retrospective katılımcıları: Sena Akdoğan, Burak Öntürk, Şamil D�
 
 - **Sprint Notları:**
 Takım 2.Sprintte ulaşmak istediği puana bayram, tatil, özel durumlar vs. sebebiyle ulaşamamıştır. Bu durum takımda motivasyon kaybına sebep olmuştur ancak son sprintte bu durumu tersine çevirerek güzel bir sonuç elde edeceğimizi düşünüyoruz.
+
+
+---
+
+## Product Backlog URL
+
+[Product Backlog Revize.docx](https://github.com/Dew-Hub/U-78/files/12065208/Product.Backlog.Revize.docx)
+
+---
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 130 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. Son sprintte kalan puanların tamamlanması gerektiğine karar verilmiştir.
+
+- **Daily Scrum**: Daily Scrum toplantıları WhatsApp üzerinden yapılmıştır. Daily Scrum toplantıları, WhatsApp konuşmalarımızın ekran fotoğraflarını içeren bir PDF dosyası olarak paylaşılmaktadır: [Daily Scrum 3.pdf](https://github.com/Dew-Hub/U-78/files/12065239/Daily.Scrum.3.pdf)
+
+- **Sprint board update**: Sprint board screenshotları:
+[Unity Team 78 Sprint 3 Backlog Board](https://trello.com/b/pqrA8bFU/3sprint)
+
+![done](https://github.com/Dew-Hub/U-78/assets/123193328/5fdaec6f-53ac-4849-a967-4cd750f86452)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+
+
+- **Sprint Review**:
+Oyundaki düşman karakter ve etkileşim nesneleri modellenmiştir. Oyunun sahneleri ve levelleri tasarlanmıştır. Bootcamp sürecinde oluşturduğumuz hedefin çoğuna ulaşılmıştır.
+
+- **Sprint Retrospective:**
+Sprint Retrospective katılımcıları: Sena Akdoğan, Burak Öntürk, Şamil Düz, Tolga Karaduman
+  - 6 haftalık Bootcamp süreci boyunca elde edilen tecrübe takım üyelerini memnun etmiştir.
+  - Hedeflenen ürünün büyük bir kısmını başarıyla tamamladığımız için takım birbirini tebrik etmiştir. 
+  - Aktif olmayan üye dolayısıyla süre konusunda yaşanılan sıkıntı hem Scrum Master hem de takım üyeleri için ders çıkarılacak bir deneyim olmuştur.
+
+- **Sprint Notları:**
+Son Sprint içerisinde Product Backlog değiştirilmiştir. Oyunun içerisindeki yan karakter süre sıkıntısından dolayı oyundan çıkarılmıştır. Takımdaki aktif olmayan üye nedeni ile bazı konularda süre sıkıntısı yaşanmıştır.
+
+- **Ek Notlar:**
+Oyun içerisindeki 3D assetler takım üyeleri tarafından tasarlanmıştır.
+Hazır Kullanılan Assetler: [Hazır Kullanılan Assetler.docx](https://github.com/Dew-Hub/U-78/files/12065246/Hazir.Kullanilan.Assetler.docx)
 
 
 ---
