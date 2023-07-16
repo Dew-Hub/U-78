@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class buttonbox3 : MonoBehaviour
 {
-    public celikkapiacilis celikkapi;
+    public asansorscrpt asansor;
     private bool durum = false;
     private void OnTriggerEnter(Collider other)
     {
@@ -24,7 +24,7 @@ public class buttonbox3 : MonoBehaviour
 
     private void Update()
     {
-        celikkapi.box2 = durum;
+        asansor.box3 = durum;
     }
 
 

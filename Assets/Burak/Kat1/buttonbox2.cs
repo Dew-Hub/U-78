@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class buttonbox2 : MonoBehaviour
 {
-    public celikkapiacilis asansor;
+    public asansorscrpt asansor;
     private bool durum = false;
     private void OnTriggerEnter(Collider other)
     {
@@ -18,7 +18,7 @@ public class buttonbox2 : MonoBehaviour
     {
         if (other.CompareTag("box"))
         {
-            durum= false;
+            durum = false;
         }
     }
 
@@ -26,6 +26,4 @@ public class buttonbox2 : MonoBehaviour
     {
         asansor.box2 = durum;
     }
-
-
 }
