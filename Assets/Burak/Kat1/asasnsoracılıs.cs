@@ -14,13 +14,17 @@ public class asansorscrpt : MonoBehaviour
     {
         if (box2 && box3)
         {
+            asansorAnim.ResetTrigger("Kapat");
 
+            asansorAnim.SetTrigger("Aç");
 
         }
 
         else if (!(box2 && box3))
         {
-            
+            asansorAnim.ResetTrigger("Aç");
+
+            asansorAnim.SetTrigger("Kapat");
         }
     }
 }
