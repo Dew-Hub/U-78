@@ -5701,7 +5701,7 @@ PrefabInstance:
     - target: {fileID: 510836833094958826, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: afcecfcccc492174488115a93b412bbe, type: 2}
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 2888854307247071129, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -5709,7 +5709,7 @@ PrefabInstance:
     - target: {fileID: 2888854307247071129, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: afcecfcccc492174488115a93b412bbe, type: 2}
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 4132267834232970230, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -14417,6 +14417,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5549552804463400502, guid: 3ba6fb5fbca51b4408dfe3d062856a00, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25321,6 +25325,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 2068925690209276640, guid: 8549e33e5da37b244aae7551d71fd542, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25beddd790c812544a0f964af3d9bb6d, type: 2}
     - target: {fileID: 4229360289496371743, guid: 8549e33e5da37b244aae7551d71fd542, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -29588,6 +29596,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (24)
@@ -31717,6 +31729,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (23)
@@ -42181,6 +42197,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (18)
@@ -44240,6 +44260,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (22)
@@ -51010,6 +51034,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (31)
@@ -56386,6 +56414,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (20)
@@ -64345,6 +64377,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5549552804463400502, guid: 3ba6fb5fbca51b4408dfe3d062856a00, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71903,6 +71939,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 2068925690209276640, guid: 8549e33e5da37b244aae7551d71fd542, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 25beddd790c812544a0f964af3d9bb6d, type: 2}
     - target: {fileID: 4229360289496371743, guid: 8549e33e5da37b244aae7551d71fd542, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -78585,6 +78625,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (21)
@@ -89664,6 +89708,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1391538420}
     m_Modifications:
+    - target: {fileID: 530743358520704978, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 1584258240587681580, guid: 796d63eeea811c5459a5aa1b69701a19, type: 3}
       propertyPath: m_Name
       value: duzduvar (19)
@@ -90100,7 +90148,7 @@ PrefabInstance:
     - target: {fileID: 4132267834232970230, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: afcecfcccc492174488115a93b412bbe, type: 2}
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 4848495885306017377, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -90148,7 +90196,7 @@ PrefabInstance:
     - target: {fileID: 8193494775910660322, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: afcecfcccc492174488115a93b412bbe, type: 2}
+      objectReference: {fileID: 2100000, guid: 2ce6286415b91cd429061d7abdb9b267, type: 2}
     - target: {fileID: 8394768958300932446, guid: 24d887b3188faeb43b775ede5b3ac657, type: 3}
       propertyPath: m_Name
       value: GIZLI-DUVAR Variant
