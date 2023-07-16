@@ -15065,7 +15065,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 531467754538239891, guid: e6972b566567cf043a05c24fdc8e0343, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1000175803}
   m_SourcePrefab: {fileID: 100100000, guid: e6972b566567cf043a05c24fdc8e0343, type: 3}
 --- !u!4 &965168876 stripped
 Transform:
@@ -15275,6 +15278,31 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6292517992804298850, guid: b3cbd8acee72fcc44a50c94497d005ee, type: 3}
   m_PrefabInstance: {fileID: 989329886}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1000175800 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 531467754538239891, guid: e6972b566567cf043a05c24fdc8e0343, type: 3}
+  m_PrefabInstance: {fileID: 965168875}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1000175802 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 2247863053061670425, guid: e6972b566567cf043a05c24fdc8e0343, type: 3}
+  m_PrefabInstance: {fileID: 965168875}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1000175803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000175800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a4681b88a9d0e49b2778222f84e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asansorAnim: {fileID: 1000175802}
+  box2: 0
+  box3: 0
 --- !u!1001 &1003312975
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27484,7 +27512,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15406dbc87e40754ba486315ba8c7d28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asansor: {fileID: 0}
+  asansor: {fileID: 1000175803}
 --- !u!1001 &2057537154
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28099,7 +28127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b766f4d5bf638ca459e806aef018f0f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asansor: {fileID: 0}
+  asansor: {fileID: 1000175803}
 --- !u!1001 &2103987196
 PrefabInstance:
   m_ObjectHideFlags: 0
