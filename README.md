@@ -137,8 +137,12 @@ Takım 2.Sprintte ulaşmak istediği puana bayram, tatil, özel durumlar vs. seb
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![1](https://github.com/Dew-Hub/U-78/assets/123193328/89cd09a2-9c5a-4082-b446-8cbada963e9c)
+![2](https://github.com/Dew-Hub/U-78/assets/123193328/9310ab7a-c07c-4079-aea3-f8d5301ad144)
+![3](https://github.com/Dew-Hub/U-78/assets/123193328/279f51d0-66d7-45b1-bc7f-fcfce6a085ee)
 
 
+https://github.com/Dew-Hub/U-78/assets/123193328/af37296f-c52c-470e-9523-32c51e138555
 
 
 
