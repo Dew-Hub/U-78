@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 [RequireComponent(typeof(LineRenderer))]
-public class NewLaser : MonoBehaviour
+public class NewLaser1 : MonoBehaviour
 {
     [Header("Settings")]
     public LayerMask layerMask;
@@ -62,13 +62,13 @@ public class NewLaser : MonoBehaviour
 
                 if (hit.collider.CompareTag("Disi")) // Mirror tag'ine sahip bir nesneye çarparsa
                 {
-                    doorAnim.ResetTrigger("Kapat");
-                    doorAnim.SetTrigger("Acıl");
+                    doorAnim.ResetTrigger("Kapat2");
+                    doorAnim.SetTrigger("Acıl2");
                 }
                 else
                 {
-                    doorAnim.ResetTrigger("Acıl");
-                    doorAnim.SetTrigger("Kapat");
+                    doorAnim.ResetTrigger("Acıl2");
+                    doorAnim.SetTrigger("Kapat2");
                 }
 
             }
