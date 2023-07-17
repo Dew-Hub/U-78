@@ -59913,6 +59913,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: KATLAR-ARASI-ASANSOR (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2247863053061670425, guid: e6972b566567cf043a05c24fdc8e0343, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 23cd0e69ed3fb464bb7db48af8fa7e10, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -109623,8 +109627,38 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6446077708003602736, guid: 183eac59b6460ca45980a3425e8d028b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1921579164}
   m_SourcePrefab: {fileID: 100100000, guid: 183eac59b6460ca45980a3425e8d028b, type: 3}
+--- !u!1 &1921579163 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6446077708003602736, guid: 183eac59b6460ca45980a3425e8d028b, type: 3}
+  m_PrefabInstance: {fileID: 1921579162}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1921579164
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1921579163}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2329098449242126572, guid: 1d4e2631735f68a4481ea631f0e2a986, type: 3}
 --- !u!1 &1922384154
 GameObject:
   m_ObjectHideFlags: 0
