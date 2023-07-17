@@ -13932,6 +13932,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3069354347255718066, guid: fa528a37a2649184bbc001c7fd1c7a79, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d8d6affd11a83f748bfe62a6c34b5927, type: 2}
     - target: {fileID: 4923249531945157021, guid: fa528a37a2649184bbc001c7fd1c7a79, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -40024,8 +40028,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 888344864}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.84882104, y: -0.8102265, z: 1.0631522}
+  m_LocalRotation: {x: -0, y: -0, z: 0.25900084, w: 0.9658771}
+  m_LocalPosition: {x: -1.249, y: -1.005, z: 1.0631522}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -40033,7 +40037,7 @@ Transform:
   - {fileID: 846709048}
   m_Father: {fileID: 1982138372}
   m_RootOrder: -1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 30.022}
 --- !u!1 &889845810
 GameObject:
   m_ObjectHideFlags: 0
@@ -72384,6 +72388,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3069354347255718066, guid: fa528a37a2649184bbc001c7fd1c7a79, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d8d6affd11a83f748bfe62a6c34b5927, type: 2}
     - target: {fileID: 4923249531945157021, guid: fa528a37a2649184bbc001c7fd1c7a79, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -81693,6 +81701,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3069354347255718066, guid: fa528a37a2649184bbc001c7fd1c7a79, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d8d6affd11a83f748bfe62a6c34b5927, type: 2}
     - target: {fileID: 4923249531945157021, guid: fa528a37a2649184bbc001c7fd1c7a79, type: 3}
       propertyPath: m_RootOrder
       value: -1
