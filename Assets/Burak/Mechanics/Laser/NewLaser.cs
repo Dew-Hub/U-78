@@ -57,14 +57,11 @@ public class NewLaser : MonoBehaviour
                 ray = new Ray(hit.point, Vector3.Reflect(ray.direction, hit.normal));
 
 
-                if (hit.collider.CompareTag("Mirror")) // Mirror tag'ine sahip bir nesneye çarparsa
+                if (hit.collider.CompareTag("Disi")) // Mirror tag'ine sahip bir nesneye çarparsa
                 {
-                    isMirrored = true;
+                    Debug.Log("Test");
                 }
-                else if (isMirrored) // Mirror tag'ine sahip nesneden sekip, başka bir nesneye çarparsa
-                {
-                    break; // Lazerin durmasını sağlamak için döngüden çıkılır
-                }
+                
 
             }
             else
