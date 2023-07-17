@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3638594191800062657}
   - component: {fileID: 1556580167396763147}
   - component: {fileID: 5993523864576205475}
+  - component: {fileID: 6752235750287053452}
   m_Layer: 0
   m_Name: LAZER-KONTROL-MODEL
   m_TagString: Mirror
@@ -107,3 +108,30 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0160004, y: 1.0160004, z: 1.0160004}
   m_Center: {x: 0.000007672215, y: -0.0000019250856, z: 0.50800085}
+--- !u!54 &6752235750287053452
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1052409762713798622}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 96
+  m_CollisionDetection: 0
