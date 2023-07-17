@@ -18,6 +18,9 @@ public class NewLaser : MonoBehaviour
     private Ray ray;
     private Vector3 direction;
 
+    public Animator doorAnim;
+
+
     private void Start()
     {
         _lineRenderer = GetComponent<LineRenderer>();
@@ -59,9 +62,14 @@ public class NewLaser : MonoBehaviour
 
                 if (hit.collider.CompareTag("Disi")) // Mirror tag'ine sahip bir nesneye çarparsa
                 {
-                    Debug.Log("Test");
+                    doorAnim.ResetTrigger("Kapat");
+                    doorAnim.SetTrigger("Ac");
                 }
-                
+                else
+                {
+                    doorAnim.ResetTrigger("Ac");
+                    doorAnim.SetTrigger("Kapat");
+                }
 
             }
             else
