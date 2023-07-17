@@ -31,7 +31,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1874885981398007424
 BoxCollider:
@@ -52,7 +52,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
+  m_Size: {x: 1, y: 1.2160685, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &7717202958731445061
 MonoBehaviour:
@@ -66,4 +66,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e449e4a56d2b0c4dae0a045f403b90b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextSceneName: 
