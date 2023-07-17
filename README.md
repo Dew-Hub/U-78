@@ -5,7 +5,7 @@ NAVI-78
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Sena Akdoğan: Scrum Master / Map Design
+- Sena Akdoğan: Scrum Master 
 - Burak Öntürk: Product Owner / Developer 
 - Şamil Düz: Map Planning
 - Tolga Karaduman: 3D Artist
